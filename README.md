@@ -1,3 +1,10 @@
+# React-井字棋游戏
+
+> 效果：
+
+![DOM inspector showing granular updates](public/game.gif)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
